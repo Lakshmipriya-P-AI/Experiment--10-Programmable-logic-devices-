@@ -16,7 +16,15 @@ Figure -01 PROM
  
  
 ### Procedure
-/* write all the steps invloved */
+1. Open Quartus II and select new project and choose the file location.
+
+2. Declare the file name of module.
+
+3. Declare the input and outputd.
+
+4. Use begin declaration to define the functionality of logic circuits.
+
+5. End  the module.
 
 
 
@@ -57,3 +65,4 @@ endmodule
 <img width="898" alt="waveform af" src="https://user-images.githubusercontent.com/93427923/172819980-54538c6b-4433-4608-a8f2-7520e0295c69.png">
 
 ### RESULTS 
+Thus PROM using verilog is implemented and its output is validated.
